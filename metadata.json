@@ -1,0 +1,5 @@
+{
+  "name": "AI Rug Visualizer",
+  "description": "Upload a room scene and a rug image to visualize how the rug looks in the room using Gemini AI.",
+  "requestFramePermissions": []
+}
